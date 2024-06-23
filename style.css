@@ -1,0 +1,27 @@
+h1.para1{
+    color: rgb(10, 8, 37);
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 5px;
+}
+ul li{
+    display: inline-table;
+    text-decoration: none;
+    color: rgb(28, 12, 53);
+    padding: 5px 20px;
+    border: 1px solid black;
+    transition: 0.6s ease;
+}
+ul li:hover{
+    background-color: bisque;
+    color: rgb(13, 13, 48);
+
+}
+h2.intro{
+    padding: 2px;
+    margin: 3px;
+    border: 2px solid black;
+    background-color: aliceblue;
+}
